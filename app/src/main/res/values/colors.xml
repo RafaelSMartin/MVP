@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryTransparent">#c81478a9</color>
+    <color name="colorCameraBackground">#2196F3</color>
+    <color name="colorPrimaryDark">#0F587D</color>
+    <color name="colorAccent">#2196F3</color>
+    <color name="colorDivider">#1e000000</color>
+    <color name="colorBottomBar">#2196F3</color>
+    <color name="colorGreyTint">#818181</color>
+
+
+    <color name="white">#ffffff</color>
+    <color name="red">#F34235</color>
+    <color name="pink">#E81D62</color>
+    <color name="purple">#9B26AF</color>
+    <color name="deep_purple">#6639B6</color>
+    <color name="indigo">#3E50B4</color>
+    <color name="blue">#2196F3</color>
+    <color name="light_blue">#97abb4</color>
+    <color name="cyan">#00BBD3</color>
+    <color name="teal">#009587</color>
+    <color name="green">#4BAE4F</color>
+    <color name="light_green">#8AC249</color>
+    <color name="lime">#CCDB38</color>
+    <color name="yellow">#FEEA3A</color>
+    <color name="amber">#FEC006</color>
+    <color name="orange">#FE9700</color>
+    <color name="deep_orange">#FE5621</color>
+    <color name="brown">#785447</color>
+
+    <color name="divider_color">#dfdfdf</color>
+
+    <color name="white_main_color">#ffffff</color>
+    <color name="white_secondary_color">#b4ffffff</color>
+    <color name="white_divider_color">#b3ffffff</color>
+
+    <color name="black">#000000</color>
+    <color name="grey">#9E9E9E</color>
+
+
+
+
+</resources>
