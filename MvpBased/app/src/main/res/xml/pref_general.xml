@@ -1,0 +1,63 @@
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--<android.support.v7.preference.PreferenceCategory android:title="@string/general">-->
+        <!--<android.support.v7.preference.Preference-->
+            <!--android:title="@string/default_directory"-->
+            <!--android:key="@string/default_directory"/>-->
+
+        <!--<android.support.v7.preference.Preference-->
+        <!--android:title="NO MORE CLEAR DATA"-->
+        <!--android:key="RESET_LIMIT"/>-->
+
+    <!--</android.support.v7.preference.PreferenceCategory>-->
+
+    <!--<android.support.v7.preference.PreferenceCategory android:title="@string/premium">-->
+    <!--<android.support.v7.preference.Preference-->
+    <!--android:title="@string/subscription_1_month_title"-->
+    <!--android:summary="@string/subscription_1_month_summary"-->
+    <!--android:key="@string/subscription_1_month_title"/>-->
+    <!--<android.support.v7.preference.Preference-->
+    <!--android:title="@string/subscription_1_year_title"-->
+    <!--android:summary="@string/subscription_1_year_summary"-->
+    <!--android:key="@string/subscription_1_year_title"/>-->
+    <!--</android.support.v7.preference.PreferenceCategory>-->
+
+    <android.support.v7.preference.PreferenceCategory android:title="@string/more_app">
+
+        <android.support.v7.preference.Preference
+            android:title="@string/pdf_converter"
+            android:key="@string/pdf_converter"/>
+
+        <android.support.v7.preference.Preference
+            android:title="@string/camera_translator"
+            android:key="@string/camera_translator"/>
+
+        <android.support.v7.preference.Preference
+            android:title="@string/scanner_pdf"
+            android:key="@string/scanner_pdf"/>
+
+        <!--<android.support.v7.preference.Preference-->
+        <!--android:title="@string/triple_translator"-->
+        <!--android:key="@string/triple_translator"/>-->
+
+        <android.support.v7.preference.Preference
+            android:title="@string/more_app"
+            android:key="@string/more_app"/>
+
+    </android.support.v7.preference.PreferenceCategory>
+
+    <android.support.v7.preference.PreferenceCategory android:title="@string/about">
+
+        <android.support.v7.preference.Preference
+            android:title="@string/website"
+            android:key="@string/website"/>
+        <android.support.v7.preference.Preference
+            android:title="@string/privacy_policy"
+            android:key="@string/privacy_policy"/>
+        <android.support.v7.preference.Preference
+            android:title="@string/contact_us"
+            android:key="@string/contact_us"/>
+    </android.support.v7.preference.PreferenceCategory>
+
+</PreferenceScreen>

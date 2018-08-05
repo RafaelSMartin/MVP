@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--File Type ITEM Layout and CardView-->
+    <dimen name="file_type_item_layout_horizontal_margin">10dp</dimen>
+    <dimen name="file_type_item_layout_vertical_margin">10dp</dimen>
+    <dimen name="file_type_marginleft_relative_image_view">16dp</dimen>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+</resources>
